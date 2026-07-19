@@ -16,7 +16,8 @@
 // @connect      *
 // @run-at       document-idle
 // @icon         https://i.postimg.cc/yxc1Hc6v/image.png
-// @downloadURL  https://github.com/accdaune/Bypass/raw/main/volcano.user.js
-// @updateURL    https://github.com/accdaune/Bypass/raw/main/volcano.user.js
-// @require      https://github.com/accdaune/Bypass/raw/main/bypass.js
+// @downloadURL  https://github.com/oanh19721172-collab/auto/raw/main/user.js
+// @updateURL    https://github.com/oanh19721172-collab/auto/raw/main/user.js
+// @require      https://github.com/oanh19721172-collab/auto/raw/main/protected.js
 // ==/UserScript==
+
