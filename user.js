@@ -20,4 +20,3 @@
 // @updateURL    https://github.com/oanh19721172-collab/auto/raw/main/user.js
 // @require      https://github.com/oanh19721172-collab/auto/raw/main/protected.js
 // ==/UserScript==
-
