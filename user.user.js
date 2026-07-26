@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         KataBump Auto Reg (Auto Bypass Captcha)
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description  Tự động hóa Katabump -  Bypass Altcha Captcha
 // @author       Lil Alex
 // @match        *://*.katabump.fr/*
